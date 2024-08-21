@@ -1,0 +1,28 @@
+[23-Oct-2023 23:11:14 Asia/Dhaka] PHP Fatal error:  Cannot use App\Models\Invest as Invest because the name is already in use in /home/oxetradecp/public_html/app/Http/Controllers/CronJobController.php on line 17
+[25-Oct-2023 18:51:28 Asia/Dhaka] PHP Fatal error:  Trait "App\Console\Commands\NotifyTrait" not found in /home/oxetradecp/public_html/app/Console/Commands/investmentCron.php on line 18
+[28-Oct-2023 09:48:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 09:48:08 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 09:48:15 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 09:48:40 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 09:48:42 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:02:51 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:03:08 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:03:17 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:03:21 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:14:22 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:14:32 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:38:37 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:45:13 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:45:15 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:45:27 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 10:45:30 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 246
+[28-Oct-2023 14:57:43 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 244
+[28-Oct-2023 15:07:08 UTC] PHP Parse error:  Unclosed '{' on line 240 does not match ')' in /home/oxetradecp/public_html/app/helpers.php on line 242
+[28-Oct-2023 15:10:07 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oxetradecp/public_html/app/helpers.php on line 242
+[12-Nov-2023 10:57:43 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 245
+[12-Nov-2023 10:57:51 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 245
+[12-Nov-2023 10:57:53 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 245
+[12-Nov-2023 10:57:56 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 245
+[12-Nov-2023 10:58:07 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/oxetradecp/public_html/app/helpers.php on line 245
+[12-Nov-2023 17:57:14 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/oxetradecp/public_html/app/helpers.php on line 365
+[14-Nov-2023 22:33:41 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home/oxetradecp/public_html/app/Http/Controllers/CronJobController.php on line 245
